@@ -43,6 +43,7 @@
 				"iam:DeleteRole",
 				"iam:AttachRolePolicy",
 				"iam:PassRole",
+                "iam:DetachRolePolicy",
 				"sagemaker:AddTags",
 				"sagemaker:ListTags",
 				"sagemaker:CreateNotebookInstance",
